@@ -6,4 +6,8 @@
 <!---
 This is my repository! For projects and lessons 😊💙
 --->
-https://mail.google.com/mail/u/0/#inbox
+ <li>
+      <a target="_blank" href="https://www.twitch.tv/alanzoka">
+      <img src="<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">" alt="imagem">
+       </a>
+  </li>
